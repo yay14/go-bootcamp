@@ -3,6 +3,6 @@ package main
 import "awesomeProject/day2"
 
 func main() {
-	day2.Ex2()
+	day2.Ex3()
 
 }
